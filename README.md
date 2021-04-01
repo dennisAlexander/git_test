@@ -1,3 +1,14 @@
+Actual instructions (90 percent correct)
+1. git init
+2. git config --global user.email "email"
+3. git config --global user.name "name"
+4. git remote add origin git@github.com:username/new_repo
+5. git add .
+6. git commit -m 'mssg'
+7. git branch -M main
+8. git push -u origin main
+
+
 
 ODIN's github demo
 
