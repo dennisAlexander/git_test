@@ -8,7 +8,7 @@ Actual instructions (90 percent correct)
 7. git branch -M main
 8. git push -u origin main
 
-
+divergent 'add' issue:  run "git pull <remote"
 
 ODIN's github demo
 
