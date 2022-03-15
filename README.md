@@ -8,7 +8,9 @@ Actual instructions (90 percent correct)
 7. git branch -M main
 8. git push -u origin main
 
-divergent 'add' issue:  run "git pull <remote"
+divergent 'add' issue:  run "git pull <remote>"  //doesn't work yet
+ >> just delete local '.git' folder, recreate github repo
+ >> AVOID BY .. NOT creating ReadMe.md when gh repo is created. 
 
 ODIN's github demo
 
